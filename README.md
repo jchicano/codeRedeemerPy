@@ -18,7 +18,7 @@ To run the script type in 'python main.py'
 ### Env File Format:
 
 ```bash
-USERNAME="Username123"
-PASSWORD="Password123"
+USER="Username123"
+PASS="Password123"
 URL="https://myweb.page"
 ```

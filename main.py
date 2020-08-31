@@ -22,8 +22,8 @@ elif platform == "win32":
 
 load_dotenv()
 
-USERNAME = os.getenv("USERNAME")
-PASSWORD = os.getenv("PASSWORD")
+USERNAME = os.getenv("USER")
+PASSWORD = os.getenv("PASS")
 URL = os.getenv("URL")
 
 
