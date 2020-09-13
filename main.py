@@ -113,7 +113,6 @@ first_time = True
 is_phone_guard_method = None
 
 while(multiple_codes):
-    # borrow_args()
     code = input('Enter the encrypted code: ')
     special_char = input('Enter the encryption special character: ')
     special_char_occurrences = code.count(special_char)
